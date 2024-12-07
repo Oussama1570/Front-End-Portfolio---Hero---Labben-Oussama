@@ -13,32 +13,37 @@ Thank you for taking the time to explore my portfolio!
 ## Images of The Portfolio Website:
 
 #### Home
-![Home Page](https://github.com/user-attachments/assets/790de147-a463-4646-a66a-07fd7030a511)
+![Home Page](https://github.com/user-attachments/assets/33acb94a-0a9e-47ab-b3d5-2b9a5dd9904d)
+
 
 
 #### About
-![About Page](https://github.com/user-attachments/assets/1d30e423-87ad-4a05-bb77-df040a509949)
-![About Page n°2](https://github.com/user-attachments/assets/f84e6d4c-71ea-4f1c-bd89-3dafe81cccdc)
-![About Page n°3](https://github.com/user-attachments/assets/5ed1fe63-2ce9-49f5-a1dd-e754ccf05502)
+![About Page](https://github.com/user-attachments/assets/8903eb89-91aa-4098-b8e3-898c32e9089f)
+![About Page n°2](https://github.com/user-attachments/assets/f71fdb5a-567f-43c6-8072-26b3118cb45b)
+![About Page n°3](https://github.com/user-attachments/assets/13db1e7f-9e88-45a2-89c0-1fa2e55586f3)
+
 
 
 
 
 #### Projects
-![Projects Page](https://github.com/user-attachments/assets/68fa2f57-b97b-48ab-a369-a8a30b0135d4)
+![Projects Page](https://github.com/user-attachments/assets/a76ada1e-07bd-4c8d-8e98-de55ed7feb03)
+
 
 
 
 #### Contact
-![Contact Page](https://github.com/user-attachments/assets/cf808165-8a8e-4062-91c5-70551e802cc7)
+![Contact Page](https://github.com/user-attachments/assets/cab9b389-201e-4a7c-91ae-d7a86a794696)
+
 
 
 
 #### Mobile Version
-![Home Page Mobile](https://github.com/user-attachments/assets/ffa280cc-eb9b-46a2-a331-23ff463545fe)
-![About Page Mobile](https://github.com/user-attachments/assets/28eb6ff1-ca4c-449c-aff5-09173ee245d5)
-![Projects Page Mobile](https://github.com/user-attachments/assets/2f14045e-2cdf-4766-9919-3df463092829)
-![Contact Page Mobile](https://github.com/user-attachments/assets/2b63961b-fdad-428c-90a4-1216158876f0)
+![Home Page Mobile](https://github.com/user-attachments/assets/085d8992-3365-49c9-b2b7-9eb71d9c88d9)
+![About Page Mobile](https://github.com/user-attachments/assets/db8ed291-e41e-44e2-aab0-4cd1222ebf59)
+![Projects Page Mobile](https://github.com/user-attachments/assets/d6964170-ad71-4e25-9ff2-03949438a200)
+![Contact Page Mobile](https://github.com/user-attachments/assets/f745eebe-b617-4a29-82a4-974a4c2457f2)
+
 
 ## Resources Used in This Project
 
